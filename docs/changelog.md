@@ -65,3 +65,31 @@ Etapy level designu:
    6. Dekoracje
 
    **UWAGA!** Ziutki na zaliczeniu zazwyczaj pomijają wszystko poza 2, 3, 6. "Widać jak ktoś to pomija... najgorsze levele, z poprzednij lat, to te gdzie ktoś robi makietę poziomu i dekoracje." Tldr; po knur te graficy.
+
+## Podstawy pracy z silnikami gier wideo | wtorek, 18 lis 2025
+
+Programowanie w Godocie:
+   
+   1. Przypomnienie co to są:
+	  - Zmienne, a stałe,
+		 - ich typy.
+	  - Array, Dictionary i Enum.
+		 - @export oraz @onready.
+   2. Nauka o podstawach funkcji w .gdscript.
+   3. Przypomnienie o warunkach:
+	  - while,
+	  - if/elif/else,
+	  - for,
+		 for i in range (x, y, z) # x = Start, y = Meta, z = Kroki
+	  Każdy z warunków kończymy, oczywiście, dwukropkiem `:`.
+
+Dawaj w kolko i krzyzyk
+O | O | x
+x | x | O
+O | x | x
+
+Zadanie:
+	k20, czyli 20 scianek, 1-20
+	rycerza = 4 (siła)
+	smok = 8 (siła)
+	Walczą ze sobą 5 tur i każda z tych tur to k20 + siła
