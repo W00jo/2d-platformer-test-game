@@ -1,4 +1,4 @@
-extends Node2D
+extends Node
 
 #func _dodawanie(liczbaJeden: int, liczbaDwa: int) -> int:
 	#return liczbaJeden + liczbaDwa

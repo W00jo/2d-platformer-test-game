@@ -1,7 +1,9 @@
 [gd_scene load_steps=3 format=3 uid="uid://chs3e0undxvd1"]
 
-[ext_resource type="Script" uid="uid://65avhn8swojp" path="res://scenes/levels/main.gd" id="1_72ix8"]
-[ext_resource type="Texture2D" uid="uid://dxrujnxjq0rn1" path="res://scenes/levels/0_full.jpg" id="2_2vj2h"]
+[ext_resource type="Script" uid="uid://65avhn8swojp" path="res://scenes/levels/lecture_exercise.gd" id="1_72ix8"]
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_2vj2h"]
+load_path = "res://.godot/imported/0_full.jpg-3d3a0b6e2963ab16543c6385aba1c7bc.ctex"
 
 [node name="Main" type="Node2D"]
 position = Vector2(176, 448)
@@ -9,4 +11,4 @@ script = ExtResource("1_72ix8")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 position = Vector2(40, 96)
-texture = ExtResource("2_2vj2h")
+texture = SubResource("CompressedTexture2D_2vj2h")
