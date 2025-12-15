@@ -2,7 +2,7 @@
 
 ## Podstawy pracy z silnikami gier wideo | wtorek, 21 paź 2025
 
-1. Stworzenie directory *(ja swoje po prostu sklonowałem z Git'a)*.
+1. Stworzenie directory *(ja swoje po prostu sklonowałem z GitHub'a)*.
 2. Zapoznanie klasistów, przez wykładowcę, z UI Godota.
 
 *Sprawdzić:*
@@ -64,7 +64,11 @@ Etapy level designu:
    5. Tło.
    6. Dekoracje
 
-   **UWAGA!** Ziutki na zaliczeniu zazwyczaj pomijają wszystko poza 2, 3, 6. "Widać jak ktoś to pomija... najgorsze levele, z poprzednij lat, to te gdzie ktoś robi makietę poziomu i dekoracje." Tldr; po knur te graficy.
+   **UWAGA!** Ziutki na zaliczeniu zazwyczaj pomijają wszystko poza 2, 3, 6.
+   
+   > *Widać jak ktoś to pomija... najgorsze levele, z poprzednij lat, to te gdzie ktoś robi makietę poziomu i dekoracje.*
+
+Tldr; po knur te graficy.
 
 ## Podstawy pracy z silnikami gier wideo | wtorek, 18 lis 2025
 
